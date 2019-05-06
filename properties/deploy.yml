@@ -10,3 +10,6 @@ metabase_keystore_password:
 openmrs_db_password:
 analytics_db_password:
 metabase_db_password:
+mail_subject: "Notification regarding failed jobs"
+mail_from: "no-reply@bahmni-mart.notifications"
+mail_recipients: ""
