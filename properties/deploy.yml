@@ -13,7 +13,7 @@ metabase_with_ssl: true
 bahmni_lets_encrypt_cert_dir: ""
 
 # custom ssl
-custom_keystore_location: "/home/centos/metabase_ssl.jks"
+custom_keystore_location: ""
 
 metabase_keystore_password: ""
 openmrs_db_password:
