@@ -1,4 +1,4 @@
-bahmni_mart_url: https://s3.ap-south-1.amazonaws.com/bahmni-mart/rpms/bahmni-mart.noarch.rpm
+bahmni_mart_version: "2.0.2-1"
 analytics_db_user: analytics
 metabase_db_user: metabase
 analytics_db_name: analytics
